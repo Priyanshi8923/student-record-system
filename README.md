@@ -15,5 +15,5 @@ A command-line based Python application to manage student records efficiently. B
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone [https://github.com/Priyanshi8923/student-record-system.git](https://github.com/Priyanshi8923/student-record-system.git)
+   git clone https://github.com/Priyanshi8923/student-record-system.git
    cd student-record-system
